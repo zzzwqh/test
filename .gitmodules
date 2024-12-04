@@ -1,0 +1,5 @@
+[submodule "res/proto"]
+	path = res/proto
+	url = git@github.com:zzzwqh/test-sub.git
+	branch = main
+
