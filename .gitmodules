@@ -1,4 +1,4 @@
 [submodule "res/proto"]
 	path = res/proto
 	url = git@github.com:zzzwqh/test-sub.git
-        branch = main
+        tag = v.1204.1716
