@@ -1,3 +1,4 @@
 [submodule "res/proto"]
 	path = res/proto
 	url = git@github.com:zzzwqh/test-sub.git
+        tag = cbt_1.2.0.231011.3
